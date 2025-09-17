@@ -1,3 +1,4 @@
+# Author Haji Qasim
 # 🐍 Python Snippets Hub
 
 A hub of handy **Python code snippets** and short programs for students, developers, and learners.  
